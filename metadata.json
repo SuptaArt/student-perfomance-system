@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Analysis & Visualization System (C++ / OOP)",
+  "description": "Interactive Student Performance Analysis & Visualization System demonstrating core C++ Object-Oriented Programming (OOP) concepts, real-time analytics, bell curve distributions, transcript generation, and executable C++ source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
